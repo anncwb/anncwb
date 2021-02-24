@@ -1,7 +1,5 @@
 ### Hi there, I'm Vben 👋
 
- ⚡  I’m currently maintaining on [Vue Vben Admin](https://github.com/anncwb/vue-vben-admin)
-
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=anncwb&show_icons=true&theme=ts" /> -->
 
