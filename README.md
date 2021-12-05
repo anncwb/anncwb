@@ -4,7 +4,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=anncwb&show_icons=true&theme=radical" /> -->
 
 - 🔭 I’m currently working in Xiamen China.
-- 🌱 I’m currently learning Java, Golang, Rust, JS & TS.
+- 🌱 I’m currently using Java, Golang, Rust, JS & TS.
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: anncwb@126.com
 - 😄 Pronouns: vben
